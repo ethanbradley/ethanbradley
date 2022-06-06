@@ -1,14 +1,38 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/ewbb/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/ewbb_"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://www.facebook.com/ebradley256"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-  <a href="https://www.instagram.com/ewbb_/"><img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-</div>
+# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">
 
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">
-
+## 👨‍💻 About Me
 - 🔭 I’m working on [my final year project](https://csc3002.qub.ethanbradley.co.uk) which uses Natural Language Processing
 - 🌱 I’m currently studying Deep Learning and Formal Methods at Queen's University Belfast
-- 🧑‍💻 I run a small IT Consultancy and Software Development business, [ewbb](https://github.com/ewbb)
+- 👨‍💼 I run a small IT Consultancy and Software Development business, [ewbb](https://github.com/ewbb)
 - ❤️ I love machine learning and creating software
-- 📫 How to reach me: [ethan@ewbb.co.uk](mailto:ethan@ewbb.co.uk)
+
+## 🛠️ Programming Languages & Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5 icon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3 icon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript icon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python icon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP icon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass icon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS icon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular icon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git icon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM icon" width="40" height="40"/>&nbsp;
+</div>
+
+## 📞 Get in Touch
+<a href="https://www.linkedin.com/in/ewbb/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://twitter.com/ewbb_">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+<a href="https://www.facebook.com/ebradley256">
+  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+<a href="https://www.instagram.com/ewbb_/">
+  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+
+## 🔥 Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ethanbradley&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
