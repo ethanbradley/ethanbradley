@@ -1,8 +1,9 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">
 
 ## 👨‍💻 About Me
-- 🔭 I’m working on [my final year project](https://csc3002.qub.ethanbradley.co.uk) which uses Natural Language Processing
-- 🌱 I’m currently studying Deep Learning and Formal Methods at Queen's University Belfast
+- 👨‍🎓 I recently graduated from Queen's University Belfast with a degree in Computer Science
+- 🔭 [My final year project](https://csc3002.qub.ethanbradley.co.uk) used Natural Language Processing to predict academic influence
+- 🌱 In October this year, I'm going back to Queen's to do postgraduate research
 - 👨‍💼 I run a small IT Consultancy and Software Development business, [ewbb](https://github.com/ewbb)
 - ❤️ I love machine learning and creating software
 
