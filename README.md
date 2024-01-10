@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🌱 I am a PhD candidate at Queen's University Belfast researching deep learning and natural language processing systems in the context of business information processing
-- 👨‍🎓 I recently graduated from Queen's University Belfast with a degree in Computer Science. [My final year project](https://csc3002.qub.ethanbradley.co.uk) used natural language processing to predict influence and importance or academic research articles
+- 👨‍🎓 I graduated from Queen's University Belfast in 2022 with a degree in Computer Science. My final year project used natural language processing to predict influence and importance or academic research articles
 - 👨‍💼 I run a small IT consultancy and software development business, [ewbb](https://github.com/ewbb)
 - ❤️ I love machine learning and creating software
 
